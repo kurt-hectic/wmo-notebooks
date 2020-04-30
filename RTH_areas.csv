@@ -1,0 +1,226 @@
+"RTH
+Reg","RTH
+Ref No",RTH city,RTH principal GISC,RTH backup GISC,RTH area of responsibility,RTH area of responsibility ISO3
+1,11,Cairo* (Egypt),Casablanca,Toulouse,Egypt ,EGY
+1,11,Cairo* (Egypt),Casablanca,Toulouse,Libya,LBY
+1,11,Cairo* (Egypt),Casablanca,Toulouse,Sudan,SDN
+1,12,Nairobi* (Kenya),Offenbach,Moscow/ Tokyo,Burundi,BDI
+1,12,Nairobi* (Kenya),Offenbach,Moscow/ Tokyo,Djibouti,DJI
+1,12,Nairobi* (Kenya),Offenbach,Moscow/ Tokyo,Ethiopia,ETH
+1,12,Nairobi* (Kenya),Offenbach,Moscow/ Tokyo,Kenya,KEN
+1,12,Nairobi* (Kenya),Offenbach,Moscow/ Tokyo,Rwanda,RWA
+1,12,Nairobi* (Kenya),Offenbach,Moscow/ Tokyo,Somalia,SOM
+1,12,Nairobi* (Kenya),Offenbach,Moscow/ Tokyo,Uganda,UGA
+1,12,Nairobi* (Kenya),Offenbach,Moscow/ Tokyo,United Republic of Tanzania,TZA
+1,13,Lusaka (Zambia),Pretoria,Exeter,Malawi,MWI
+1,13,Lusaka (Zambia),Pretoria,Exeter,Zambia,ZMB
+1,13,Lusaka (Zambia),Pretoria,Exeter,Zimbabwe,ZWE
+1,14,Pretoria (South Africa),Pretoria,Exeter,Angola     ,AGO
+1,14,Pretoria (South Africa),Pretoria,Exeter,Botswana,BWA
+1,14,Pretoria (South Africa),Pretoria,Exeter,Lesotho,LSO
+1,14,Pretoria (South Africa),Pretoria,Exeter,Madagascar,MDG
+1,14,Pretoria (South Africa),Pretoria,Exeter,Malawi,MWI
+1,14,Pretoria (South Africa),Pretoria,Exeter,Mozambique,MOZ
+1,14,Pretoria (South Africa),Pretoria,Exeter,Namibia,NAM
+1,14,Pretoria (South Africa),Pretoria,Exeter,Eswatini,SWZ
+1,14,Pretoria (South Africa),Pretoria,Exeter,South Africa,ZAF
+1,14,Pretoria (South Africa),Pretoria,Exeter,Zimbabwe,ZWE
+1,14,Pretoria (South Africa),Pretoria,Exeter,La reunion,
+1,14,Pretoria (South Africa),Pretoria,Exeter,La reunion,COM
+1,14,Pretoria (South Africa),Pretoria,Exeter,La reunion,MUS
+1,14,Pretoria (South Africa),Pretoria,Exeter,La reunion,SYC
+1,14,Pretoria (South Africa),Pretoria,Exeter,La reunion,
+1,14,Pretoria (South Africa),Pretoria,Exeter,La reunion,
+1,15,Dakar* (Senegal),Casablanca,Toulouse,Cabo Verde,CPV
+1,15,Dakar* (Senegal),Casablanca,Toulouse,Cote d’Ivoire,CIV
+1,15,Dakar* (Senegal),Casablanca,Toulouse,Gambia,GMB
+1,15,Dakar* (Senegal),Casablanca,Toulouse,Guinea,GIN
+1,15,Dakar* (Senegal),Casablanca,Toulouse,Guinea-Bissau,GNB
+1,15,Dakar* (Senegal),Casablanca,Toulouse,Liberia,LBR
+1,15,Dakar* (Senegal),Casablanca,Toulouse,Mali,MLI
+1,15,Dakar* (Senegal),Casablanca,Toulouse,Mauritania,MRT
+1,15,Dakar* (Senegal),Casablanca,Toulouse,Morocco,MAR
+1,15,Dakar* (Senegal),Casablanca,Toulouse,Nigeria,NGA
+1,15,Dakar* (Senegal),Casablanca,Toulouse,Senegal,SEN
+1,15,Dakar* (Senegal),Casablanca,Toulouse,Sierra Leone,SLE
+1,16,Algiers* (Algeria),Toulouse,Exeter,Algeria,DZA
+1,16,Algiers* (Algeria),Toulouse,Exeter,Lebanon,LBN
+1,16,Algiers* (Algeria),Toulouse,Exeter,Morocco,MAR
+1,16,Algiers* (Algeria),Toulouse,Exeter,Tunisia,TUN
+1,17,Brazzaville (Congo),Casablanca,Toulouse,Cameroon,CMR
+1,17,Brazzaville (Congo),Casablanca,Toulouse,Central African Republic,CAF
+1,17,Brazzaville (Congo),Casablanca,Toulouse,Congo,COG
+1,17,Brazzaville (Congo),Casablanca,Toulouse,Democratic Republic of the Congo,COD
+1,17,Brazzaville (Congo),Casablanca,Toulouse,Equatorial Guinea,GNQ
+1,17,Brazzaville (Congo),Casablanca,Toulouse,Gabon,GAB
+1,17,Brazzaville (Congo),Casablanca,Toulouse,São Tomé and Príncipe,STP
+1,18,Niamey (Niger),Casablanca,Toulouse,Benin   ,BEN
+1,18,Niamey (Niger),Casablanca,Toulouse,Burkina Faso,BFA
+1,18,Niamey (Niger),Casablanca,Toulouse,Chad,TCD
+1,18,Niamey (Niger),Casablanca,Toulouse,Ghana,GHA
+1,18,Niamey (Niger),Casablanca,Toulouse,Niger,NER
+1,18,Niamey (Niger),Casablanca,Toulouse,Nigeria,NGA
+1,18,Niamey (Niger),Casablanca,Toulouse,Togo,TGO
+2,21,Tehran (Islamic Republic of Iran),Tehran,To be decided,Iran (Islamic Republic of),IRN
+2,21,Tehran (Islamic Republic of Iran),Tehran,To be decided,Iraq,IRQ
+2,21,Tehran (Islamic Republic of Iran),Tehran,To be decided,Pakistan,PAK
+2,21,Tehran (Islamic Republic of Iran),Tehran,To be decided,Yemen,YEM
+2,22,Tashkent (Uzbekistan),Moscow,To be decided,Afghanistan,AFG
+2,22,Tashkent (Uzbekistan),Moscow,To be decided,Kazakhstan,KAZ
+2,22,Tashkent (Uzbekistan),Moscow,To be decided,Kyrgyzstan,KGZ
+2,22,Tashkent (Uzbekistan),Moscow,To be decided,Tajikistan,TJK
+2,22,Tashkent (Uzbekistan),Moscow,To be decided,Turkmenistan,TKM
+2,22,Tashkent (Uzbekistan),Moscow,To be decided,Uzbekistan,UZB
+2,23,Novosibirsk (Russian Federation),Moscow,Offenbach/ Toulouse,Mongolia,MNG
+2,23,Novosibirsk (Russian Federation),Moscow,Offenbach/ Toulouse,Russian Federation (in Region II),RUS
+2,24,Khabarovsk (Russian Federation),Moscow,Offenbach/ Toulouse,Democratic People’s Republic of Korea,PRK
+2,24,Khabarovsk (Russian Federation),Moscow,Offenbach/ Toulouse,Russian Federation (in Region II),RUS
+2,25,Tokyo* (Japan),Tokyo,Beijing/ Offenbach/ Melbourne,Hong Kong (China),HKG
+2,25,Tokyo* (Japan),Tokyo,Beijing/ Offenbach/ Melbourne,Japan,JPN
+2,25,Tokyo* (Japan),Tokyo,Beijing/ Offenbach/ Melbourne,Macao (China),MAC
+2,25,Tokyo* (Japan),Tokyo,Beijing/ Offenbach/ Melbourne,Republic of Korea,KOR
+2,26,Bangkok (Thailand),Tokyo,Beijing/ Offenbach/ Melbourne,Cambodia,KHM
+2,26,Bangkok (Thailand),Tokyo,Beijing/ Offenbach/ Melbourne,Lao People’s Democratic Republic,LAO
+2,26,Bangkok (Thailand),Tokyo,Beijing/ Offenbach/ Melbourne,Myanmar,MMR
+2,26,Bangkok (Thailand),Tokyo,Beijing/ Offenbach/ Melbourne,Thailand,THA
+2,26,Bangkok (Thailand),Tokyo,Beijing/ Offenbach/ Melbourne,Viet Nam,VNM
+2,27,New Delhi* (India),New Delhi,To be decided,Bangladesh,BGD
+2,27,New Delhi* (India),New Delhi,To be decided,Bhutan,BTN
+2,27,New Delhi* (India),New Delhi,To be decided,India,IND
+2,27,New Delhi* (India),New Delhi,To be decided,Maldives,MDV
+2,27,New Delhi* (India),New Delhi,To be decided,Myanmar,MMR
+2,27,New Delhi* (India),New Delhi,To be decided,Nepal,NPL
+2,27,New Delhi* (India),New Delhi,To be decided,Pakistan,PAK
+2,27,New Delhi* (India),New Delhi,To be decided,Sri Lanka,LKA
+2,28,Beijing* (China),Beijing,Tokyo,China ,CHN
+2,28,Beijing* (China),Beijing,Tokyo,Democratic People’s Republic of Korea,PRK
+2,28,Beijing* (China),Beijing,Tokyo,Viet Nam,VNM
+2,29,Jeddah* (Saudi Arabia),Jeddah,To be decided,Bahrain,BHR
+2,29,Jeddah* (Saudi Arabia),Jeddah,To be decided,Kuwait,KWT
+2,29,Jeddah* (Saudi Arabia),Jeddah,To be decided,Oman,OMN
+2,29,Jeddah* (Saudi Arabia),Jeddah,To be decided,Qatar,QAT
+2,29,Jeddah* (Saudi Arabia),Jeddah,To be decided,Saudi Arabia,SAU
+2,29,Jeddah* (Saudi Arabia),Jeddah,To be decided,United Arab Emirates,ARE
+2,29,Jeddah* (Saudi Arabia),Jeddah,To be decided,Yemen,YEM
+3,31,Brasilia* (Brazil),Brasilia,Washington/ Pretoria,Brazil     ,BRA
+3,31,Brasilia* (Brazil),Brasilia,Washington/ Pretoria,Colombia,COL
+3,31,Brasilia* (Brazil),Brasilia,Washington/ Pretoria,Ecuador,ECU
+3,31,Brasilia* (Brazil),Brasilia,Washington/ Pretoria,French Guyana,GUF
+3,31,Brasilia* (Brazil),Brasilia,Washington/ Pretoria,Guyana,GUY
+3,31,Brasilia* (Brazil),Brasilia,Washington/ Pretoria,Suriname,SUR
+3,31,Brasilia* (Brazil),Brasilia,Washington/ Pretoria,Venezuela (Bolivarian Republic of),VEN
+3,32,Buenos Aires* (Argentina),Brasilia,Washington/ Pretoria,Argentina,ARG
+3,32,Buenos Aires* (Argentina),Brasilia,Washington/ Pretoria,Bolivia (Plurinational State of),BOL
+3,32,Buenos Aires* (Argentina),Brasilia,Washington/ Pretoria,Chile,CHL
+3,32,Buenos Aires* (Argentina),Brasilia,Washington/ Pretoria,Paraguay,PRY
+3,32,Buenos Aires* (Argentina),Brasilia,Washington/ Pretoria,Peru,PER
+3,32,Buenos Aires* (Argentina),Brasilia,Washington/ Pretoria,Uruguay,URY
+3,33,Maracay (Venezuela),Brasilia,Washington/ Pretoria,Colombia,COL
+3,33,Maracay (Venezuela),Brasilia,Washington/ Pretoria,Ecuador,ECU
+3,33,Maracay (Venezuela),Brasilia,Washington/ Pretoria,Guyana,GUY
+3,33,Maracay (Venezuela),Brasilia,Washington/ Pretoria,Suriname,SUR
+3,33,Maracay (Venezuela),Brasilia,Washington/ Pretoria,Venezuela (Bolivarian Republic of),VEN
+4,41,Washington* (United States of America),Washington,Brasilia,Antigua and Barbuda,ATG
+4,41,Washington* (United States of America),Washington,Brasilia,Aruba,ABW
+4,41,Washington* (United States of America),Washington,Brasilia,Bahamas,BHS
+4,41,Washington* (United States of America),Washington,Brasilia,Barbados,BRB
+4,41,Washington* (United States of America),Washington,Brasilia,Belize,BLZ
+4,41,Washington* (United States of America),Washington,Brasilia,British Caribbean Territories,BCT
+4,41,Washington* (United States of America),Washington,Brasilia,Canada,CAN
+4,41,Washington* (United States of America),Washington,Brasilia,Cayman Islands,CYM
+4,41,Washington* (United States of America),Washington,Brasilia,Colombia,COL
+4,41,Washington* (United States of America),Washington,Brasilia,Costa Rica,CRI
+4,41,Washington* (United States of America),Washington,Brasilia,Cuba,CUB
+4,41,Washington* (United States of America),Washington,Brasilia,Curaçao and Sint Maarten,CSM
+4,41,Washington* (United States of America),Washington,Brasilia,Dominica,DMA
+4,41,Washington* (United States of America),Washington,Brasilia,Dominican Republic,DOM
+4,41,Washington* (United States of America),Washington,Brasilia,El Salvador,SLV
+4,41,Washington* (United States of America),Washington,Brasilia,Grenada,BCT
+4,41,Washington* (United States of America),Washington,Brasilia,Guatemala,GTM
+4,41,Washington* (United States of America),Washington,Brasilia,Haiti,HTI
+4,41,Washington* (United States of America),Washington,Brasilia,Honduras,HND
+4,41,Washington* (United States of America),Washington,Brasilia,Jamaica,JAM
+4,41,Washington* (United States of America),Washington,Brasilia,Mexico,MEX
+4,41,Washington* (United States of America),Washington,Brasilia,Monserrat,MSR
+4,41,Washington* (United States of America),Washington,Brasilia,Nevis,KNA
+4,41,Washington* (United States of America),Washington,Brasilia,Nicaragua,NIC
+4,41,Washington* (United States of America),Washington,Brasilia,Panama,PAN
+4,41,Washington* (United States of America),Washington,Brasilia,Saint Kitts,KNA
+4,41,Washington* (United States of America),Washington,Brasilia,Saint Lucia,LCA
+4,41,Washington* (United States of America),Washington,Brasilia,Trinidad and Tobago,TTO
+4,41,Washington* (United States of America),Washington,Brasilia,United States,USA
+5,51,Melbourne* (Australia),Melbourne,Tokyo/Seoul,Australia and outlying islands,AUS
+5,51,Melbourne* (Australia),Melbourne,Tokyo/Seoul,Brunei Darussalam,BRN
+5,51,Melbourne* (Australia),Melbourne,Tokyo/Seoul,Fiji,FJI
+5,51,Melbourne* (Australia),Melbourne,Tokyo/Seoul,French Polynesia,PYF
+5,51,Melbourne* (Australia),Melbourne,Tokyo/Seoul,Indonesia,IDN
+5,51,Melbourne* (Australia),Melbourne,Tokyo/Seoul,Kiribati,KIR
+5,51,Melbourne* (Australia),Melbourne,Tokyo/Seoul,Malaysia,MYS
+5,51,Melbourne* (Australia),Melbourne,Tokyo/Seoul,Micronesia (Federated States of),FSM
+5,51,Melbourne* (Australia),Melbourne,Tokyo/Seoul,New Caledonia,NCL
+5,51,Melbourne* (Australia),Melbourne,Tokyo/Seoul,Papua New Guinea,PNG
+5,51,Melbourne* (Australia),Melbourne,Tokyo/Seoul,Philippines,PHL
+5,51,Melbourne* (Australia),Melbourne,Tokyo/Seoul,Samoa,WSM
+5,51,Melbourne* (Australia),Melbourne,Tokyo/Seoul,"Singapore,",SGP
+5,51,Melbourne* (Australia),Melbourne,Tokyo/Seoul,Solomon Islands,SLB
+5,51,Melbourne* (Australia),Melbourne,Tokyo/Seoul,Timor-Leste,TLS
+5,51,Melbourne* (Australia),Melbourne,Tokyo/Seoul,Tonga,TON
+5,51,Melbourne* (Australia),Melbourne,Tokyo/Seoul,Tuvalu,TUV
+5,51,Melbourne* (Australia),Melbourne,Tokyo/Seoul,Vanuatu,VUT
+5,51,Melbourne* (Australia),Melbourne,Tokyo/Seoul,Wallis and Futuna,WLF
+5,52,Wellington (New Zealand),Melbourne,Tokyo/Seoul,New Zealand and outlying islands,NZL
+5,52,Wellington (New Zealand),Melbourne,Tokyo/Seoul,Cook Islands,COK
+5,52,Wellington (New Zealand),Melbourne,Tokyo/Seoul,Niue,NIU
+5,52,Wellington (New Zealand),Melbourne,Tokyo/Seoul,Pitcairn,PCN
+5,52,Wellington (New Zealand),Melbourne,Tokyo/Seoul,Tokelau,TKL
+6,61,Exeter* (United Kingdom of Great Britain and Northern Ireland),Exeter,Toulouse,Gibraltar,GBR
+6,61,Exeter* (United Kingdom of Great Britain and Northern Ireland),Exeter,Toulouse,Greenland,DNK
+6,61,Exeter* (United Kingdom of Great Britain and Northern Ireland),Exeter,Toulouse,Iceland,ISL
+6,61,Exeter* (United Kingdom of Great Britain and Northern Ireland),Exeter,Toulouse,Ireland,IRL
+6,61,Exeter* (United Kingdom of Great Britain and Northern Ireland),Exeter,Toulouse,Netherlands,NLD
+6,61,Exeter* (United Kingdom of Great Britain and Northern Ireland),Exeter,Toulouse,United Kingdom,GBR
+6,62,Norrköping (Sweden),Offenbach,Moscow/ Tokyo,Denmark  ,DNK
+6,62,Norrköping (Sweden),Offenbach,Moscow/ Tokyo,Estonia,EST
+6,62,Norrköping (Sweden),Offenbach,Moscow/ Tokyo,Finland,FIN
+6,62,Norrköping (Sweden),Offenbach,Moscow/ Tokyo,Latvia,LVA
+6,62,Norrköping (Sweden),Offenbach,Moscow/ Tokyo,Lithuania,LTU
+6,62,Norrköping (Sweden),Offenbach,Moscow/ Tokyo,Norway,NOR
+6,62,Norrköping (Sweden),Offenbach,Moscow/ Tokyo,Sweden,SWE
+6,63,Toulouse* (France),Toulouse,Exeter,Belgium,BEL
+6,63,Toulouse* (France),Toulouse,Exeter,France,FRA
+6,63,Toulouse* (France),Toulouse,Exeter,Luxembourg,LUX
+6,63,Toulouse* (France),Toulouse,Exeter,Monaco,MCO
+6,63,Toulouse* (France),Toulouse,Exeter,Portugal,PRT
+6,63,Toulouse* (France),Toulouse,Exeter,Spain,ESP
+6,64,Offenbach* (Germany),Offenbach,Moscow/ Tokyo,Germany,DEU
+6,64,Offenbach* (Germany),Offenbach,Moscow/ Tokyo,Israel,ISR
+6,64,Offenbach* (Germany),Offenbach,Moscow/ Tokyo,Jordan,JOR
+6,64,Offenbach* (Germany),Offenbach,Moscow/ Tokyo,Switzerland,CHE
+6,65,Moscow* (Russian Federation),Moscow,Offenbach/ Toulouse,Armenia,ARM
+6,65,Moscow* (Russian Federation),Moscow,Offenbach/ Toulouse,Azerbaijan,AZE
+6,65,Moscow* (Russian Federation),Moscow,Offenbach/ Toulouse,Belarus,BLR
+6,65,Moscow* (Russian Federation),Moscow,Offenbach/ Toulouse,Georgia,GEO
+6,65,Moscow* (Russian Federation),Moscow,Offenbach/ Toulouse,Republic of Moldova,MDA
+6,65,Moscow* (Russian Federation),Moscow,Offenbach/ Toulouse,Russian Federation (in Region VI),RUS
+6,65,Moscow* (Russian Federation),Moscow,Offenbach/ Toulouse,Ukraine,UKR
+6,66,Rome (Italy),Offenbach,Moscow/ Tokyo,Greece,GRC
+6,66,Rome (Italy),Offenbach,Moscow/ Tokyo,Italy,ITA
+6,66,Rome (Italy),Offenbach,Moscow/ Tokyo,Lebanon,LBN
+6,66,Rome (Italy),Offenbach,Moscow/ Tokyo,Malta,MLT
+6,66,Rome (Italy),Offenbach,Moscow/ Tokyo,Turkey,TUR
+s,67,Prague* (Czechia),Offenbach,Moscow/ Tokyo,Czechia,CZE
+6,67,Prague* (Czechia),Offenbach,Moscow/ Tokyo,Poland,POL
+6,68,Vienna (Austria),Offenbach,Moscow/ Tokyo,Austria  ,AUT
+6,68,Vienna (Austria),Offenbach,Moscow/ Tokyo,Croatia,HRV
+6,68,Vienna (Austria),Offenbach,Moscow/ Tokyo,Hungary,HUN
+6,68,Vienna (Austria),Offenbach,Moscow/ Tokyo,Slovakia,SVK
+6,68,Vienna (Austria),Offenbach,Moscow/ Tokyo,Slovenia,SVN
+6,69,Sofia* (Bulgaria),Offenbach,Moscow/ Tokyo,Albania  ,ALB
+6,69,Sofia* (Bulgaria),Offenbach,Moscow/ Tokyo,Bosnia and Herzegovina,BIH
+6,69,Sofia* (Bulgaria),Offenbach,Moscow/ Tokyo,Bulgaria,BGR
+6,69,Sofia* (Bulgaria),Offenbach,Moscow/ Tokyo,Cyprus,CYP
+6,69,Sofia* (Bulgaria),Offenbach,Moscow/ Tokyo,Montenegro,MNE
+6,69,Sofia* (Bulgaria),Offenbach,Moscow/ Tokyo,Romania,ROU
+6,69,Sofia* (Bulgaria),Offenbach,Moscow/ Tokyo,Serbia,SRB
+6,69,Sofia* (Bulgaria),Offenbach,Moscow/ Tokyo,Syrian Arab Republic,SYR
+6,69,Sofia* (Bulgaria),Offenbach,Moscow/ Tokyo,the former Yugoslav Republic of Macedonia,MKD

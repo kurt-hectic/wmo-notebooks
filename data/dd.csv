@@ -1,0 +1,19 @@
+ISO_TER1,ISO code for the territory (place)
+SOVEREIGN1,Country that exercises sovereignty over the place
+name,Name of the place
+AREA_KM2,"The area of the place in square kilometers, including land area and EEZ, computed by ArcGIS GIS algorithm"
+nr_station_gbon_target,Number of stations required for GBON compliance
+nr_stations_policy,Number of stations that need to be upgraded for GBON compliance
+nr_stations_new,Number of new stations required for GBON compliance
+HR_baseline,Horizontal resolution of baseline stations
+HR_reporting,Horizontal resolution of reporting stations
+nr_stations_baseline,"Baseline stations: all stations inside the place, for Surface. Stations that reported at least once for Upper-Air"
+nr_stations_reporting,"Reporting stations: stations reporting 30% of GBON requirements 60% of the time for Surface, 2-daily for Upper-Air"
+HR_NN_baseline_mean,Average distance of next neighbour for baseline stations
+HR_NN_baseline_std,Standard deviation of next neighbour for baseline stations
+HR_NN_reporting_mean,Average distance of next neighbour for reporting stations
+HR_NN_reporting_std,Standard deviation of next neighbour for reporting stations
+ISO_SOV1,ISO code for sovereign country
+UNION,Components of the place in case mutiple places sharing the same ISO_TER1 code were aggregated
+IncomeGroup,Income Group from World Bank
+WMO_Region,WMO Region. In case of overlap region with bigger component is taken
